@@ -17,7 +17,7 @@
   "description": "A Custom Fortnite Bot Lobby",
   "dependencies": {
     "@discordjs/rest": "^2.4.2",
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "child_process": "^1.0.2",
     "colors": "^1.4.0",
     "discord.js": "^14.17.3",
